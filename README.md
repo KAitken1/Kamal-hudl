@@ -65,4 +65,3 @@ Thank you for your efforts, and we are excited to see what you come up with!
 Best regards,
 Kamal
 
-Please note that you should replace <repository-url> with the actual URL of your GitHub repository where you upload the project.
